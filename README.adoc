@@ -1,0 +1,9 @@
+= The Bisq Slack workspace
+
+This repository exists to track issues related to Bisq's Slack workspace at https://bisq.slack.com.
+
+See https://bisq.network/slack-invite for an invitation to our workspace.
+
+See the `#slack_` channel there for discussion about Bisq's use of Slack.
+
+See https://github.com/bisq-network/roles/issues#23 for info on who is responsible for Bisq's Slack workspace.
